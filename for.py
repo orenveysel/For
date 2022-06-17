@@ -3,12 +3,12 @@ numbers = [1,2,3,4,5]
 for a in numbers:
     print('Hello')
 
-names = ['çınar','sadık','sena']
+names = ['ören','veysel','sena']
 
 for name in names:
     print(f'my name is {name}')
 
-name = 'Sadık Turan'
+name = 'Veysel OREN'
 
 for n in name: 
     print(n)
